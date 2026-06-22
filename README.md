@@ -63,17 +63,20 @@ The database (`food_waste.db`) is created automatically on first run.
 
 ---
 
-## Project Structure
+## 📁 Project Structure
+
 ```
-food_waste_app/
-├── app.py              ← Streamlit UI (4 pages)
-├── database.py         ← SQLite setup + 15 SQL queries
-├── requirements.txt
-├── providers_data.csv
-├── receivers_data.csv
-├── food_listings_data.csv
-└── claims_data.csv
-```
+food-waste-management/
+│
+├── app.py                    # Main Streamlit application
+├── database.py               # SQLite setup + 15 SQL queries
+├── requirements.txt          # Python dependencies
+├── README.md                 # Project documentation
+│
+├── providers_data.csv        # 2000 food providers
+├── receivers_data.csv        # 1000 receivers (NGOs, shelters, individuals)
+├── food_listings_data.csv    # 1000 food listings
+└── claims_data.csv           # 1000 food claims
 
 ## Features
 | Page | Features |
