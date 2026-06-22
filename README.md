@@ -78,6 +78,8 @@ food-waste-management/
 ├── food_listings_data.csv    # 1000 food listings
 └── claims_data.csv           # 1000 food claims
 
+---
+
 ## Features
 | Page | Features |
 |------|---------|
