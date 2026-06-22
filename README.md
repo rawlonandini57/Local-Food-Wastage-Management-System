@@ -17,6 +17,14 @@ The application uses:
 - Add, update, and delete food listings
 - Add food claims
 - View dashboard metrics and charts
+  
+## Problem Statement
+
+Food wastage is a significant issue, where many households and restaurants discard surplus food while many people struggle with food insecurity.
+
+The aim of this project is to develop a Local Food Wastage Management System where restaurants and individuals can list surplus food, and NGOs or individuals in need can claim the available food.
+
+The system uses SQL to store food details, provider information, receiver information, locations, and claim records. A Streamlit web application is used to interact with the data, apply filters, perform CRUD operations, and visualize food donation insights.
 
 A full-stack data project connecting surplus food providers with those in need.
 
