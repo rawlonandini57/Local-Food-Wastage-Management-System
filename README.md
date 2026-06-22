@@ -1,6 +1,6 @@
 # 🍽️ Local Food Wastage Management System
 
-## Project Description
+# Project Description
 This project helps reduce food wastage by connecting surplus food providers such as restaurants, grocery stores, and supermarkets with NGOs, community centers, and individuals who need food.
 
 The application uses:
