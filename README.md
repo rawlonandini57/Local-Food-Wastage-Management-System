@@ -172,8 +172,8 @@ plotly>=5.18.0
 ## 🙋 Author
 
 **Your Name**
-- GitHub: [@YOUR_USERNAME](https://github.com/rawlonandini57)
-- LinkedIn: [your-linkedin](https://linkedin.com/in/your-linkedin)
+- GitHub: [@rawlonandini57](https://github.com/rawlonandini57)
+- LinkedIn: [nandini-rawlo](https://www.linkedin.com/in/nandini-rawlo-34b2043a3/)
 
 ---
 
