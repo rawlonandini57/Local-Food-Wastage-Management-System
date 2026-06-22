@@ -1,5 +1,23 @@
 # 🍽️ Local Food Wastage Management System
 
+## Project Description
+This project helps reduce food wastage by connecting surplus food providers such as restaurants, grocery stores, and supermarkets with NGOs, community centers, and individuals who need food.
+
+The application uses:
+- Python
+- SQL / SQLite
+- Streamlit
+- Data Analysis
+
+## Features
+- View available food donations
+- Filter food by city, provider type, food type, and meal type
+- View provider contact details
+- Run 15 SQL analysis queries
+- Add, update, and delete food listings
+- Add food claims
+- View dashboard metrics and charts
+
 A full-stack data project connecting surplus food providers with those in need.
 
 ## Tech Stack
