@@ -4,6 +4,10 @@ A Python-based data application that connects **surplus food providers** with **
 
 ---
 
+### 🔗**Streamlit Dashboard**: https://local-food-wastage-management-system-rawlonandini.streamlit.app/
+
+---
+
 ## 📌 Project Overview
 
 Every day, restaurants, supermarkets, and catering services discard massive amounts of edible food while NGOs and shelters struggle to feed people. This system bridges that gap by:
@@ -37,7 +41,7 @@ food-waste-management/
 ├── requirements.txt          # Python dependencies
 ├── README.md                 # Project documentation
 │
-├── providers_data.csv        # 2000 food providers
+├── providers_data.csv        # 1000 food providers
 ├── receivers_data.csv        # 1000 receivers (NGOs, shelters, individuals)
 ├── food_listings_data.csv    # 1000 food listings
 └── claims_data.csv           # 1000 food claims
@@ -162,7 +166,7 @@ plotly>=5.18.0
 
 | Dataset | Records | Key Columns |
 |---------|---------|-------------|
-| Providers | 2,000 | Name, Type, City, Contact |
+| Providers | 1,000 | Name, Type, City, Contact |
 | Receivers | 1,000 | Name, Type, City, Contact |
 | Food Listings | 1,000 | Food_Name, Quantity, Expiry_Date, Meal_Type |
 | Claims | 1,000 | Status, Timestamp |
@@ -171,7 +175,7 @@ plotly>=5.18.0
 
 ## 🙋 Author
 
-**Your Name**
+**Nandini Rawlo**
 - GitHub: [@rawlonandini57](https://github.com/rawlonandini57)
 - LinkedIn: [nandini-rawlo](https://www.linkedin.com/in/nandini-rawlo-34b2043a3/)
 
