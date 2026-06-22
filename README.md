@@ -1,13 +1,16 @@
 # 🍽️ Local Food Wastage Management System
 
-# Project Description
-This project helps reduce food wastage by connecting surplus food providers such as restaurants, grocery stores, and supermarkets with NGOs, community centers, and individuals who need food.
+A Python-based data application that connects surplus food providers with people in need — reducing food waste through smart tracking, SQL analytics, and an interactive Streamlit dashboard.
+----------------------------------------------------------------------------------------------------------------------------
 
-The application uses:
-- Python
-- SQL / SQLite
-- Streamlit
-- Data Analysis
+## 📌 Project Overview
+
+Every day, restaurants, supermarkets, and catering services discard massive amounts of edible food while NGOs and shelters struggle to feed people. This system bridges that gap by:
+
+- Letting providers list surplus food items
+- Allowing NGOs and individuals to claim them
+- Tracking every interaction through a SQL database
+- Visualizing trends through an interactive web dashboard
 
 ## Features
 - View available food donations
@@ -28,8 +31,15 @@ The system uses SQL to store food details, provider information, receiver inform
 
 A full-stack data project connecting surplus food providers with those in need.
 
-## Tech Stack
-- **Python** · **SQLite** · **Streamlit** · **Plotly** · **Pandas**
+## 🛠️ Tech Stack
+
+| Technology | Purpose |
+|------------|---------|
+| ![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python) | Core language |
+| ![SQLite](https://img.shields.io/badge/SQLite-Database-lightblue?logo=sqlite) | Local SQL database |
+| ![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-red?logo=streamlit) | Interactive web app |
+| ![Plotly](https://img.shields.io/badge/Plotly-Charts-purple?logo=plotly) | Data visualizations |
+| ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green?logo=pandas) | Data manipulation |
 
 ## Setup Instructions
 
