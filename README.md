@@ -1,4 +1,5 @@
-# 🍽️ :rice: :curry: Local Food Wastage Management System
+# 🍽️ LOCAL FOOD WASTAGE MANAGEMENT SYSTEM
+<img width="624" height="416" alt="Picture1" src="https://github.com/user-attachments/assets/53c0bdcb-beb3-449f-bbf8-3ff03b72b8e8" />
 
 A Python-based data application that connects **surplus food providers** with **people in need** — reducing food waste through smart tracking, SQL analytics, and an interactive Streamlit dashboard.
 
